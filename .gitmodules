@@ -1,0 +1,6 @@
+[submodule "sitecore-commerce-docker"]
+	path = sitecore-commerce-docker
+	url = git@github.com:avivasolutionsnl/sitecore-commerce-docker.git
+[submodule "sitecore-docker"]
+	path = sitecore-docker
+	url = git@github.com:avivasolutionsnl/sitecore-docker.git
